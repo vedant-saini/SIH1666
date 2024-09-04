@@ -1,0 +1,1001 @@
+Interest,Strength,Academic Performance,Career Path
+Business,Creative,88,Business Analyst
+Arts,Research,78,Teacher
+Business,Research,64,Teacher
+Business,Analytical,92,Teacher
+Arts,Communication,57,Graphic Designer
+Business,Communication,70,Teacher
+Technology,Creative,88,Data Scientist
+Business,Leadership,68,Business Analyst
+Science,Creative,72,Software Engineer
+Technology,Creative,60,Software Engineer
+Arts,Leadership,60,Graphic Designer
+Business,Leadership,73,Business Analyst
+Business,Leadership,85,Business Analyst
+Business,Communication,89,Teacher
+Science,Communication,73,Data Scientist
+Humanities,Communication,52,Teacher
+Science,Leadership,71,Data Scientist
+Technology,Communication,51,Software Engineer
+Science,Creative,73,Data Scientist
+Technology,Research,93,Data Scientist
+Technology,Leadership,79,Software Engineer
+Science,Creative,87,Software Engineer
+Science,Analytical,51,Software Engineer
+Business,Communication,70,Teacher
+Arts,Research,82,Teacher
+Technology,Creative,61,Data Scientist
+Technology,Communication,71,Data Scientist
+Humanities,Creative,93,Teacher
+Technology,Communication,74,Data Scientist
+Humanities,Analytical,98,Graphic Designer
+Arts,Leadership,76,Graphic Designer
+Business,Communication,91,Teacher
+Humanities,Analytical,77,Graphic Designer
+Arts,Research,65,Teacher
+Business,Analytical,64,Teacher
+Business,Leadership,96,Business Analyst
+Science,Analytical,100,Data Scientist
+Arts,Analytical,93,Teacher
+Business,Leadership,52,Business Analyst
+Science,Research,86,Data Scientist
+Science,Communication,100,Data Scientist
+Arts,Communication,56,Graphic Designer
+Arts,Leadership,70,Graphic Designer
+Technology,Research,58,Data Scientist
+Arts,Creative,88,Graphic Designer
+Arts,Leadership,67,Graphic Designer
+Business,Leadership,53,Business Analyst
+Arts,Creative,74,Graphic Designer
+Science,Communication,63,Software Engineer
+Humanities,Leadership,99,Graphic Designer
+Science,Leadership,58,Software Engineer
+Science,Research,75,Data Scientist
+Business,Research,51,Teacher
+Science,Research,69,Data Scientist
+Science,Creative,77,Data Scientist
+Business,Creative,96,Teacher
+Technology,Analytical,56,Software Engineer
+Humanities,Communication,93,Teacher
+Science,Research,57,Data Scientist
+Science,Research,96,Data Scientist
+Arts,Research,84,Teacher
+Business,Research,63,Teacher
+Business,Analytical,66,Teacher
+Science,Research,85,Data Scientist
+Technology,Communication,99,Business Analyst
+Arts,Communication,89,Teacher
+Technology,Analytical,53,Software Engineer
+Technology,Analytical,51,Software Engineer
+Science,Creative,55,Data Scientist
+Business,Leadership,91,Business Analyst
+Humanities,Leadership,53,Graphic Designer
+Science,Communication,78,Data Scientist
+Arts,Creative,67,Graphic Designer
+Arts,Creative,75,Graphic Designer
+Technology,Communication,93,Software Engineer
+Science,Communication,83,Data Scientist
+Business,Analytical,59,Teacher
+Humanities,Research,85,Business Analyst
+Technology,Analytical,63,Software Engineer
+Business,Communication,80,Teacher
+Technology,Creative,97,Software Engineer
+Business,Creative,64,Business Analyst
+Science,Communication,57,Data Scientist
+Arts,Leadership,63,Teacher
+Humanities,Creative,72,Business Analyst
+Business,Analytical,89,Business Analyst
+Humanities,Leadership,70,Business Analyst
+Arts,Analytical,65,Teacher
+Business,Analytical,94,Teacher
+Technology,Leadership,67,Business Analyst
+Humanities,Research,96,Graphic Designer
+Technology,Analytical,73,Software Engineer
+Arts,Research,75,Graphic Designer
+Business,Research,74,Business Analyst
+Humanities,Analytical,94,Teacher
+Technology,Research,90,Data Scientist
+Humanities,Creative,78,Graphic Designer
+Technology,Analytical,64,Software Engineer
+Science,Creative,94,Software Engineer
+Business,Leadership,50,Business Analyst
+Science,Analytical,74,Data Scientist
+Humanities,Communication,56,Teacher
+Humanities,Communication,58,Teacher
+Arts,Creative,73,Graphic Designer
+Technology,Leadership,50,Business Analyst
+Business,Communication,93,Teacher
+Business,Creative,57,Business Analyst
+Technology,Analytical,73,Software Engineer
+Arts,Communication,60,Teacher
+Technology,Leadership,100,Data Scientist
+Humanities,Analytical,66,Graphic Designer
+Business,Communication,57,Teacher
+Science,Leadership,84,Software Engineer
+Technology,Communication,84,Software Engineer
+Humanities,Research,82,Business Analyst
+Science,Analytical,54,Data Scientist
+Business,Analytical,91,Teacher
+Technology,Communication,88,Data Scientist
+Humanities,Leadership,90,Graphic Designer
+Humanities,Analytical,77,Teacher
+Humanities,Communication,56,Teacher
+Business,Creative,58,Business Analyst
+Technology,Creative,57,Business Analyst
+Arts,Leadership,61,Graphic Designer
+Arts,Leadership,83,Graphic Designer
+Science,Analytical,82,Data Scientist
+Humanities,Communication,97,Teacher
+Science,Leadership,72,Software Engineer
+Humanities,Communication,73,Teacher
+Humanities,Research,86,Graphic Designer
+Science,Creative,84,Data Scientist
+Business,Communication,93,Teacher
+Arts,Analytical,89,Teacher
+Arts,Analytical,71,Teacher
+Humanities,Analytical,76,Teacher
+Humanities,Leadership,84,Business Analyst
+Business,Leadership,50,Business Analyst
+Arts,Communication,84,Graphic Designer
+Science,Creative,86,Software Engineer
+Arts,Creative,96,Graphic Designer
+Science,Research,63,Data Scientist
+Technology,Research,52,Data Scientist
+Technology,Analytical,50,Software Engineer
+Humanities,Creative,54,Graphic Designer
+Humanities,Leadership,75,Teacher
+Business,Research,63,Business Analyst
+Technology,Analytical,88,Software Engineer
+Arts,Creative,76,Graphic Designer
+Business,Research,58,Business Analyst
+Business,Creative,64,Teacher
+Business,Creative,64,Business Analyst
+Business,Leadership,75,Business Analyst
+Arts,Analytical,91,Graphic Designer
+Science,Communication,62,Software Engineer
+Arts,Research,100,Teacher
+Science,Research,81,Data Scientist
+Humanities,Research,88,Teacher
+Science,Leadership,98,Data Scientist
+Science,Research,81,Data Scientist
+Humanities,Communication,53,Teacher
+Science,Research,79,Data Scientist
+Humanities,Communication,86,Teacher
+Science,Creative,72,Software Engineer
+Arts,Leadership,88,Graphic Designer
+Humanities,Creative,94,Business Analyst
+Humanities,Communication,64,Teacher
+Arts,Research,92,Teacher
+Humanities,Creative,78,Teacher
+Arts,Creative,85,Graphic Designer
+Business,Leadership,62,Business Analyst
+Arts,Leadership,81,Teacher
+Arts,Research,56,Teacher
+Humanities,Creative,100,Graphic Designer
+Humanities,Creative,71,Business Analyst
+Arts,Research,77,Teacher
+Humanities,Creative,51,Teacher
+Science,Leadership,91,Software Engineer
+Technology,Communication,94,Business Analyst
+Humanities,Creative,55,Business Analyst
+Arts,Leadership,77,Teacher
+Arts,Creative,77,Graphic Designer
+Technology,Creative,93,Software Engineer
+Science,Creative,93,Data Scientist
+Business,Creative,69,Teacher
+Humanities,Communication,79,Teacher
+Arts,Analytical,60,Graphic Designer
+Science,Research,77,Data Scientist
+Science,Analytical,74,Software Engineer
+Business,Research,88,Teacher
+Technology,Research,82,Data Scientist
+Business,Communication,50,Teacher
+Humanities,Creative,76,Graphic Designer
+Science,Analytical,62,Software Engineer
+Science,Creative,90,Software Engineer
+Science,Communication,52,Data Scientist
+Humanities,Communication,88,Teacher
+Business,Analytical,55,Teacher
+Arts,Creative,57,Graphic Designer
+Arts,Analytical,76,Graphic Designer
+Arts,Creative,58,Graphic Designer
+Technology,Analytical,86,Software Engineer
+Arts,Communication,82,Teacher
+Science,Creative,100,Software Engineer
+Humanities,Analytical,91,Graphic Designer
+Humanities,Analytical,93,Graphic Designer
+Technology,Research,73,Data Scientist
+Science,Communication,64,Software Engineer
+Business,Creative,81,Business Analyst
+Science,Research,81,Data Scientist
+Arts,Creative,73,Graphic Designer
+Science,Communication,90,Data Scientist
+Arts,Creative,98,Graphic Designer
+Humanities,Creative,98,Teacher
+Business,Communication,61,Teacher
+Humanities,Creative,88,Graphic Designer
+Business,Creative,51,Business Analyst
+Science,Communication,52,Software Engineer
+Arts,Research,98,Graphic Designer
+Science,Communication,86,Software Engineer
+Business,Analytical,98,Business Analyst
+Business,Creative,66,Business Analyst
+Humanities,Communication,98,Teacher
+Business,Analytical,51,Teacher
+Science,Leadership,51,Data Scientist
+Technology,Creative,77,Data Scientist
+Technology,Analytical,72,Software Engineer
+Arts,Analytical,86,Teacher
+Business,Communication,81,Teacher
+Technology,Analytical,82,Software Engineer
+Business,Leadership,50,Business Analyst
+Science,Communication,68,Software Engineer
+Business,Communication,51,Teacher
+Humanities,Communication,93,Teacher
+Business,Creative,75,Business Analyst
+Business,Communication,81,Teacher
+Humanities,Communication,55,Teacher
+Science,Research,81,Data Scientist
+Science,Research,53,Data Scientist
+Humanities,Creative,60,Business Analyst
+Technology,Leadership,66,Data Scientist
+Humanities,Communication,87,Teacher
+Science,Leadership,73,Data Scientist
+Humanities,Creative,54,Business Analyst
+Humanities,Creative,83,Graphic Designer
+Business,Creative,55,Teacher
+Technology,Research,71,Data Scientist
+Science,Analytical,60,Software Engineer
+Humanities,Leadership,97,Teacher
+Technology,Creative,65,Software Engineer
+Science,Communication,82,Software Engineer
+Humanities,Creative,58,Business Analyst
+Business,Communication,55,Teacher
+Arts,Creative,65,Graphic Designer
+Arts,Communication,78,Graphic Designer
+Science,Leadership,52,Software Engineer
+Business,Analytical,69,Business Analyst
+Business,Communication,85,Teacher
+Business,Leadership,68,Business Analyst
+Science,Creative,75,Data Scientist
+Arts,Leadership,52,Graphic Designer
+Arts,Research,68,Graphic Designer
+Arts,Leadership,69,Teacher
+Science,Research,81,Data Scientist
+Science,Research,56,Data Scientist
+Technology,Research,90,Data Scientist
+Business,Creative,82,Business Analyst
+Arts,Creative,89,Graphic Designer
+Technology,Leadership,88,Data Scientist
+Arts,Analytical,67,Teacher
+Science,Analytical,89,Data Scientist
+Humanities,Analytical,50,Teacher
+Arts,Research,60,Teacher
+Science,Analytical,77,Software Engineer
+Science,Analytical,74,Software Engineer
+Technology,Communication,99,Business Analyst
+Business,Communication,72,Teacher
+Technology,Analytical,80,Software Engineer
+Arts,Communication,79,Graphic Designer
+Science,Research,91,Data Scientist
+Arts,Creative,84,Graphic Designer
+Science,Creative,56,Data Scientist
+Arts,Research,65,Graphic Designer
+Humanities,Analytical,75,Graphic Designer
+Science,Communication,97,Data Scientist
+Technology,Analytical,98,Software Engineer
+Technology,Analytical,51,Software Engineer
+Humanities,Research,50,Graphic Designer
+Humanities,Analytical,97,Graphic Designer
+Humanities,Analytical,61,Business Analyst
+Science,Leadership,54,Software Engineer
+Business,Leadership,86,Business Analyst
+Humanities,Analytical,81,Business Analyst
+Science,Research,58,Data Scientist
+Science,Leadership,90,Data Scientist
+Arts,Communication,84,Graphic Designer
+Science,Leadership,68,Software Engineer
+Humanities,Leadership,97,Teacher
+Science,Creative,65,Software Engineer
+Humanities,Communication,52,Teacher
+Humanities,Creative,69,Business Analyst
+Arts,Communication,73,Teacher
+Humanities,Creative,82,Business Analyst
+Technology,Research,73,Data Scientist
+Humanities,Leadership,60,Business Analyst
+Humanities,Analytical,98,Business Analyst
+Humanities,Analytical,57,Business Analyst
+Business,Research,85,Business Analyst
+Business,Analytical,87,Teacher
+Humanities,Leadership,89,Business Analyst
+Business,Analytical,69,Teacher
+Technology,Leadership,84,Business Analyst
+Science,Analytical,97,Software Engineer
+Business,Analytical,74,Business Analyst
+Science,Analytical,84,Software Engineer
+Science,Communication,74,Software Engineer
+Business,Research,78,Teacher
+Technology,Communication,67,Data Scientist
+Humanities,Analytical,95,Business Analyst
+Arts,Analytical,67,Teacher
+Humanities,Research,51,Graphic Designer
+Science,Analytical,84,Software Engineer
+Science,Analytical,65,Software Engineer
+Arts,Analytical,90,Graphic Designer
+Technology,Research,85,Data Scientist
+Humanities,Communication,82,Teacher
+Arts,Analytical,53,Teacher
+Technology,Analytical,82,Software Engineer
+Arts,Communication,63,Graphic Designer
+Arts,Research,70,Graphic Designer
+Science,Analytical,97,Data Scientist
+Humanities,Leadership,69,Business Analyst
+Business,Leadership,57,Business Analyst
+Humanities,Creative,56,Business Analyst
+Science,Creative,52,Software Engineer
+Business,Creative,66,Teacher
+Humanities,Research,82,Graphic Designer
+Technology,Communication,97,Data Scientist
+Technology,Leadership,61,Software Engineer
+Arts,Analytical,100,Teacher
+Business,Research,71,Business Analyst
+Humanities,Analytical,71,Business Analyst
+Technology,Creative,95,Data Scientist
+Business,Research,79,Business Analyst
+Business,Leadership,87,Business Analyst
+Business,Creative,87,Business Analyst
+Arts,Communication,94,Graphic Designer
+Science,Communication,100,Software Engineer
+Science,Analytical,57,Software Engineer
+Technology,Leadership,76,Business Analyst
+Technology,Analytical,76,Software Engineer
+Science,Leadership,83,Data Scientist
+Science,Leadership,70,Software Engineer
+Business,Creative,79,Business Analyst
+Technology,Communication,82,Software Engineer
+Arts,Leadership,77,Graphic Designer
+Humanities,Creative,96,Business Analyst
+Arts,Analytical,82,Graphic Designer
+Arts,Communication,54,Teacher
+Science,Creative,97,Data Scientist
+Business,Analytical,68,Business Analyst
+Humanities,Analytical,53,Teacher
+Business,Analytical,84,Business Analyst
+Technology,Analytical,98,Software Engineer
+Humanities,Research,66,Business Analyst
+Arts,Leadership,93,Teacher
+Science,Analytical,77,Data Scientist
+Business,Analytical,79,Business Analyst
+Arts,Analytical,78,Graphic Designer
+Humanities,Analytical,95,Business Analyst
+Technology,Analytical,55,Software Engineer
+Humanities,Research,84,Graphic Designer
+Business,Leadership,90,Business Analyst
+Science,Research,86,Data Scientist
+Science,Creative,73,Data Scientist
+Humanities,Leadership,78,Business Analyst
+Science,Research,98,Data Scientist
+Technology,Analytical,95,Software Engineer
+Arts,Analytical,80,Graphic Designer
+Humanities,Creative,84,Graphic Designer
+Humanities,Leadership,82,Graphic Designer
+Technology,Communication,70,Business Analyst
+Technology,Analytical,81,Software Engineer
+Arts,Communication,72,Graphic Designer
+Science,Communication,82,Software Engineer
+Science,Analytical,52,Software Engineer
+Humanities,Analytical,67,Business Analyst
+Humanities,Research,74,Graphic Designer
+Humanities,Analytical,91,Graphic Designer
+Science,Communication,80,Software Engineer
+Humanities,Leadership,52,Graphic Designer
+Science,Research,89,Data Scientist
+Technology,Research,95,Data Scientist
+Science,Creative,73,Software Engineer
+Science,Creative,99,Software Engineer
+Arts,Communication,81,Graphic Designer
+Business,Communication,96,Teacher
+Arts,Communication,71,Graphic Designer
+Business,Analytical,72,Business Analyst
+Arts,Creative,51,Graphic Designer
+Humanities,Communication,76,Teacher
+Humanities,Analytical,91,Teacher
+Humanities,Analytical,51,Business Analyst
+Humanities,Communication,75,Teacher
+Technology,Leadership,66,Software Engineer
+Humanities,Communication,89,Teacher
+Technology,Communication,82,Data Scientist
+Humanities,Leadership,58,Business Analyst
+Humanities,Research,92,Graphic Designer
+Humanities,Research,97,Teacher
+Arts,Creative,88,Graphic Designer
+Science,Communication,78,Data Scientist
+Business,Research,91,Business Analyst
+Arts,Research,75,Graphic Designer
+Business,Communication,84,Teacher
+Arts,Communication,99,Graphic Designer
+Technology,Communication,74,Software Engineer
+Humanities,Communication,73,Teacher
+Science,Communication,62,Software Engineer
+Technology,Analytical,56,Software Engineer
+Arts,Analytical,85,Teacher
+Humanities,Analytical,94,Business Analyst
+Technology,Research,69,Data Scientist
+Arts,Leadership,50,Teacher
+Humanities,Communication,57,Teacher
+Humanities,Creative,95,Graphic Designer
+Science,Creative,65,Data Scientist
+Humanities,Communication,63,Teacher
+Science,Creative,61,Software Engineer
+Arts,Analytical,100,Graphic Designer
+Technology,Leadership,72,Business Analyst
+Business,Leadership,64,Business Analyst
+Arts,Communication,77,Teacher
+Science,Communication,83,Data Scientist
+Science,Creative,51,Data Scientist
+Business,Leadership,81,Business Analyst
+Science,Research,72,Data Scientist
+Arts,Analytical,71,Teacher
+Humanities,Analytical,100,Graphic Designer
+Arts,Analytical,74,Teacher
+Business,Creative,71,Business Analyst
+Science,Creative,71,Software Engineer
+Technology,Research,98,Data Scientist
+Science,Creative,91,Data Scientist
+Science,Leadership,55,Data Scientist
+Humanities,Research,64,Business Analyst
+Science,Leadership,92,Data Scientist
+Business,Leadership,86,Business Analyst
+Humanities,Communication,82,Teacher
+Arts,Leadership,57,Teacher
+Humanities,Research,93,Graphic Designer
+Science,Research,93,Data Scientist
+Arts,Leadership,54,Graphic Designer
+Business,Analytical,88,Business Analyst
+Technology,Communication,53,Business Analyst
+Arts,Leadership,55,Graphic Designer
+Humanities,Creative,94,Teacher
+Arts,Communication,81,Graphic Designer
+Humanities,Analytical,79,Teacher
+Arts,Analytical,96,Teacher
+Science,Leadership,84,Data Scientist
+Arts,Communication,89,Teacher
+Science,Research,65,Data Scientist
+Humanities,Creative,62,Teacher
+Business,Creative,99,Teacher
+Technology,Communication,91,Business Analyst
+Technology,Research,79,Data Scientist
+Technology,Analytical,68,Software Engineer
+Technology,Creative,66,Business Analyst
+Arts,Analytical,68,Teacher
+Technology,Analytical,77,Software Engineer
+Arts,Leadership,75,Teacher
+Humanities,Research,86,Teacher
+Business,Creative,75,Business Analyst
+Humanities,Creative,72,Business Analyst
+Technology,Research,58,Data Scientist
+Technology,Communication,61,Software Engineer
+Science,Communication,50,Data Scientist
+Arts,Creative,50,Graphic Designer
+Technology,Research,96,Data Scientist
+Science,Communication,83,Software Engineer
+Science,Leadership,81,Data Scientist
+Business,Creative,97,Teacher
+Technology,Creative,74,Business Analyst
+Business,Leadership,89,Business Analyst
+Technology,Communication,94,Data Scientist
+Arts,Leadership,50,Teacher
+Science,Communication,65,Software Engineer
+Science,Analytical,88,Data Scientist
+Arts,Leadership,54,Graphic Designer
+Technology,Research,71,Data Scientist
+Technology,Creative,78,Data Scientist
+Arts,Leadership,52,Teacher
+Technology,Analytical,61,Software Engineer
+Arts,Communication,75,Teacher
+Arts,Creative,65,Graphic Designer
+Business,Analytical,100,Business Analyst
+Technology,Analytical,86,Software Engineer
+Business,Leadership,71,Business Analyst
+Science,Leadership,78,Data Scientist
+Business,Research,63,Business Analyst
+Arts,Analytical,77,Graphic Designer
+Arts,Leadership,54,Graphic Designer
+Arts,Creative,96,Graphic Designer
+Technology,Communication,98,Software Engineer
+Arts,Leadership,79,Teacher
+Arts,Research,95,Graphic Designer
+Humanities,Research,54,Teacher
+Arts,Leadership,61,Graphic Designer
+Science,Creative,65,Software Engineer
+Arts,Analytical,75,Teacher
+Arts,Creative,75,Graphic Designer
+Arts,Communication,97,Teacher
+Humanities,Analytical,70,Teacher
+Science,Leadership,88,Data Scientist
+Humanities,Leadership,85,Teacher
+Business,Research,82,Teacher
+Science,Communication,79,Data Scientist
+Arts,Leadership,86,Graphic Designer
+Technology,Research,72,Data Scientist
+Science,Creative,59,Software Engineer
+Science,Analytical,54,Software Engineer
+Humanities,Analytical,85,Teacher
+Science,Creative,83,Data Scientist
+Technology,Analytical,80,Software Engineer
+Arts,Research,59,Graphic Designer
+Technology,Communication,68,Business Analyst
+Humanities,Analytical,81,Graphic Designer
+Science,Research,50,Data Scientist
+Arts,Creative,54,Graphic Designer
+Humanities,Communication,94,Teacher
+Science,Creative,53,Software Engineer
+Science,Creative,65,Software Engineer
+Science,Research,73,Data Scientist
+Arts,Leadership,65,Graphic Designer
+Business,Leadership,51,Business Analyst
+Science,Analytical,98,Data Scientist
+Humanities,Analytical,77,Graphic Designer
+Business,Research,81,Teacher
+Arts,Communication,76,Teacher
+Business,Research,69,Business Analyst
+Science,Analytical,73,Software Engineer
+Arts,Leadership,61,Teacher
+Science,Research,99,Data Scientist
+Arts,Analytical,84,Teacher
+Science,Creative,82,Software Engineer
+Humanities,Research,82,Teacher
+Science,Research,100,Data Scientist
+Arts,Research,92,Graphic Designer
+Science,Research,86,Data Scientist
+Business,Research,61,Business Analyst
+Science,Research,52,Data Scientist
+Arts,Analytical,50,Teacher
+Arts,Leadership,82,Graphic Designer
+Science,Creative,89,Data Scientist
+Humanities,Leadership,59,Teacher
+Business,Analytical,92,Business Analyst
+Humanities,Creative,93,Graphic Designer
+Humanities,Analytical,78,Business Analyst
+Business,Analytical,62,Business Analyst
+Technology,Creative,61,Software Engineer
+Business,Analytical,80,Business Analyst
+Science,Leadership,95,Software Engineer
+Science,Communication,51,Data Scientist
+Science,Creative,100,Data Scientist
+Humanities,Research,99,Business Analyst
+Humanities,Analytical,84,Teacher
+Technology,Research,72,Data Scientist
+Technology,Communication,66,Software Engineer
+Science,Research,75,Data Scientist
+Humanities,Communication,57,Teacher
+Technology,Research,78,Data Scientist
+Business,Creative,75,Teacher
+Humanities,Communication,59,Teacher
+Humanities,Communication,75,Teacher
+Business,Leadership,83,Business Analyst
+Arts,Analytical,100,Graphic Designer
+Arts,Analytical,90,Graphic Designer
+Business,Research,56,Teacher
+Humanities,Communication,53,Teacher
+Humanities,Analytical,99,Teacher
+Arts,Creative,94,Graphic Designer
+Business,Creative,60,Business Analyst
+Humanities,Communication,78,Teacher
+Arts,Creative,85,Graphic Designer
+Arts,Creative,74,Graphic Designer
+Business,Creative,70,Business Analyst
+Arts,Analytical,85,Graphic Designer
+Technology,Leadership,59,Software Engineer
+Arts,Research,86,Teacher
+Science,Leadership,58,Data Scientist
+Business,Leadership,73,Business Analyst
+Technology,Communication,84,Data Scientist
+Technology,Creative,98,Data Scientist
+Humanities,Research,84,Business Analyst
+Humanities,Creative,97,Graphic Designer
+Science,Communication,85,Data Scientist
+Arts,Communication,67,Teacher
+Humanities,Creative,98,Teacher
+Business,Analytical,88,Business Analyst
+Science,Research,81,Data Scientist
+Humanities,Communication,73,Teacher
+Science,Analytical,72,Software Engineer
+Humanities,Research,81,Business Analyst
+Science,Leadership,86,Data Scientist
+Business,Research,61,Teacher
+Humanities,Communication,98,Teacher
+Business,Creative,62,Teacher
+Science,Analytical,72,Software Engineer
+Technology,Creative,74,Data Scientist
+Technology,Analytical,84,Software Engineer
+Humanities,Creative,90,Teacher
+Technology,Leadership,79,Data Scientist
+Science,Creative,66,Data Scientist
+Business,Leadership,98,Business Analyst
+Technology,Communication,69,Software Engineer
+Technology,Leadership,97,Software Engineer
+Humanities,Research,74,Teacher
+Arts,Communication,71,Teacher
+Technology,Research,62,Data Scientist
+Arts,Research,68,Teacher
+Business,Creative,98,Teacher
+Humanities,Leadership,85,Graphic Designer
+Technology,Research,61,Data Scientist
+Business,Creative,90,Business Analyst
+Technology,Creative,68,Business Analyst
+Business,Research,61,Teacher
+Science,Creative,58,Data Scientist
+Business,Analytical,56,Teacher
+Technology,Analytical,77,Software Engineer
+Arts,Research,63,Teacher
+Humanities,Creative,80,Business Analyst
+Humanities,Research,68,Graphic Designer
+Arts,Research,96,Graphic Designer
+Humanities,Analytical,65,Graphic Designer
+Technology,Communication,54,Software Engineer
+Arts,Communication,84,Teacher
+Business,Analytical,61,Business Analyst
+Humanities,Research,74,Teacher
+Technology,Creative,70,Data Scientist
+Business,Creative,85,Business Analyst
+Business,Communication,72,Teacher
+Science,Analytical,65,Data Scientist
+Arts,Communication,88,Teacher
+Science,Leadership,94,Data Scientist
+Humanities,Analytical,91,Teacher
+Humanities,Communication,88,Teacher
+Technology,Communication,63,Business Analyst
+Technology,Communication,80,Software Engineer
+Humanities,Analytical,54,Graphic Designer
+Science,Creative,84,Software Engineer
+Arts,Leadership,72,Teacher
+Technology,Research,78,Data Scientist
+Science,Communication,92,Data Scientist
+Business,Leadership,60,Business Analyst
+Business,Creative,67,Business Analyst
+Humanities,Research,96,Business Analyst
+Business,Creative,61,Teacher
+Arts,Creative,58,Graphic Designer
+Technology,Analytical,59,Software Engineer
+Business,Communication,93,Teacher
+Humanities,Leadership,66,Graphic Designer
+Business,Leadership,87,Business Analyst
+Technology,Communication,56,Software Engineer
+Humanities,Creative,95,Business Analyst
+Arts,Communication,62,Teacher
+Technology,Communication,89,Data Scientist
+Humanities,Analytical,91,Teacher
+Technology,Creative,58,Software Engineer
+Business,Research,99,Business Analyst
+Science,Leadership,76,Software Engineer
+Humanities,Communication,51,Teacher
+Arts,Research,54,Graphic Designer
+Technology,Communication,78,Business Analyst
+Science,Communication,86,Data Scientist
+Humanities,Communication,87,Teacher
+Humanities,Research,68,Business Analyst
+Business,Analytical,57,Business Analyst
+Science,Leadership,97,Software Engineer
+Science,Leadership,94,Data Scientist
+Technology,Analytical,50,Software Engineer
+Arts,Creative,71,Graphic Designer
+Humanities,Research,66,Business Analyst
+Science,Research,56,Data Scientist
+Arts,Leadership,74,Teacher
+Science,Research,94,Data Scientist
+Business,Analytical,53,Business Analyst
+Humanities,Leadership,85,Business Analyst
+Humanities,Creative,55,Teacher
+Science,Research,80,Data Scientist
+Business,Analytical,68,Teacher
+Business,Communication,93,Teacher
+Technology,Analytical,88,Software Engineer
+Humanities,Communication,76,Teacher
+Arts,Analytical,59,Graphic Designer
+Business,Research,75,Teacher
+Arts,Communication,68,Teacher
+Arts,Communication,88,Teacher
+Science,Analytical,52,Data Scientist
+Business,Communication,94,Teacher
+Technology,Leadership,62,Data Scientist
+Science,Leadership,99,Software Engineer
+Science,Leadership,77,Data Scientist
+Science,Creative,69,Data Scientist
+Arts,Communication,77,Graphic Designer
+Technology,Communication,57,Data Scientist
+Technology,Analytical,90,Software Engineer
+Technology,Leadership,88,Business Analyst
+Arts,Research,50,Teacher
+Arts,Creative,52,Graphic Designer
+Technology,Leadership,62,Business Analyst
+Humanities,Leadership,77,Teacher
+Technology,Analytical,98,Software Engineer
+Technology,Research,74,Data Scientist
+Technology,Analytical,82,Software Engineer
+Science,Research,87,Data Scientist
+Science,Analytical,55,Software Engineer
+Business,Leadership,93,Business Analyst
+Technology,Leadership,94,Software Engineer
+Science,Analytical,81,Software Engineer
+Humanities,Research,94,Graphic Designer
+Science,Communication,96,Data Scientist
+Arts,Analytical,70,Teacher
+Arts,Creative,65,Graphic Designer
+Business,Research,70,Business Analyst
+Business,Leadership,60,Business Analyst
+Humanities,Analytical,86,Teacher
+Arts,Research,85,Teacher
+Humanities,Research,84,Business Analyst
+Arts,Analytical,68,Teacher
+Science,Analytical,69,Software Engineer
+Science,Communication,67,Software Engineer
+Technology,Creative,96,Business Analyst
+Arts,Communication,90,Graphic Designer
+Science,Creative,98,Data Scientist
+Business,Creative,63,Business Analyst
+Science,Analytical,64,Software Engineer
+Arts,Creative,80,Graphic Designer
+Technology,Creative,50,Software Engineer
+Business,Leadership,52,Business Analyst
+Humanities,Creative,65,Graphic Designer
+Business,Creative,72,Teacher
+Business,Leadership,60,Business Analyst
+Business,Leadership,61,Business Analyst
+Technology,Research,59,Data Scientist
+Science,Leadership,81,Data Scientist
+Arts,Creative,65,Graphic Designer
+Science,Analytical,57,Data Scientist
+Technology,Communication,87,Business Analyst
+Science,Analytical,61,Data Scientist
+Business,Leadership,73,Business Analyst
+Technology,Leadership,77,Business Analyst
+Humanities,Communication,57,Teacher
+Technology,Leadership,77,Business Analyst
+Humanities,Creative,85,Teacher
+Business,Communication,75,Teacher
+Humanities,Leadership,57,Business Analyst
+Technology,Research,99,Data Scientist
+Science,Communication,77,Software Engineer
+Science,Leadership,77,Software Engineer
+Science,Leadership,86,Data Scientist
+Business,Leadership,90,Business Analyst
+Humanities,Research,85,Teacher
+Science,Research,76,Data Scientist
+Business,Research,66,Business Analyst
+Science,Communication,58,Software Engineer
+Humanities,Analytical,82,Business Analyst
+Science,Research,69,Data Scientist
+Business,Research,62,Teacher
+Business,Creative,77,Business Analyst
+Technology,Research,97,Data Scientist
+Technology,Communication,78,Data Scientist
+Science,Creative,62,Data Scientist
+Business,Communication,95,Teacher
+Humanities,Creative,84,Business Analyst
+Business,Leadership,55,Business Analyst
+Business,Analytical,67,Business Analyst
+Arts,Creative,100,Graphic Designer
+Science,Analytical,54,Software Engineer
+Arts,Analytical,96,Graphic Designer
+Humanities,Analytical,74,Teacher
+Science,Leadership,51,Data Scientist
+Humanities,Analytical,59,Teacher
+Arts,Communication,79,Teacher
+Arts,Communication,99,Graphic Designer
+Business,Analytical,94,Business Analyst
+Arts,Communication,54,Graphic Designer
+Arts,Leadership,82,Teacher
+Humanities,Creative,50,Business Analyst
+Science,Analytical,67,Software Engineer
+Technology,Leadership,81,Business Analyst
+Science,Communication,96,Software Engineer
+Arts,Communication,98,Teacher
+Technology,Leadership,60,Business Analyst
+Science,Research,70,Data Scientist
+Business,Research,75,Business Analyst
+Arts,Research,74,Teacher
+Arts,Leadership,71,Teacher
+Science,Analytical,76,Software Engineer
+Arts,Communication,98,Teacher
+Science,Communication,62,Data Scientist
+Business,Leadership,82,Business Analyst
+Humanities,Communication,83,Teacher
+Technology,Research,90,Data Scientist
+Business,Communication,84,Teacher
+Arts,Analytical,50,Teacher
+Humanities,Analytical,70,Graphic Designer
+Technology,Analytical,97,Software Engineer
+Humanities,Communication,55,Teacher
+Technology,Research,77,Data Scientist
+Arts,Analytical,66,Graphic Designer
+Science,Analytical,54,Software Engineer
+Humanities,Leadership,80,Business Analyst
+Humanities,Creative,54,Graphic Designer
+Technology,Creative,87,Data Scientist
+Science,Analytical,52,Data Scientist
+Science,Communication,72,Software Engineer
+Technology,Creative,86,Software Engineer
+Science,Communication,86,Data Scientist
+Humanities,Analytical,59,Business Analyst
+Business,Creative,59,Teacher
+Technology,Analytical,68,Software Engineer
+Business,Research,66,Teacher
+Science,Communication,70,Data Scientist
+Science,Communication,63,Software Engineer
+Science,Leadership,58,Software Engineer
+Science,Leadership,95,Data Scientist
+Humanities,Creative,50,Graphic Designer
+Arts,Communication,100,Teacher
+Arts,Creative,94,Graphic Designer
+Technology,Creative,62,Software Engineer
+Humanities,Communication,53,Teacher
+Business,Analytical,50,Business Analyst
+Technology,Communication,98,Data Scientist
+Arts,Communication,89,Graphic Designer
+Humanities,Leadership,81,Teacher
+Technology,Leadership,83,Software Engineer
+Humanities,Analytical,77,Teacher
+Arts,Research,80,Teacher
+Humanities,Creative,57,Business Analyst
+Humanities,Analytical,88,Business Analyst
+Science,Research,75,Data Scientist
+Science,Analytical,83,Software Engineer
+Humanities,Analytical,52,Graphic Designer
+Arts,Research,99,Teacher
+Arts,Leadership,61,Teacher
+Technology,Creative,50,Business Analyst
+Science,Communication,93,Data Scientist
+Arts,Communication,54,Teacher
+Science,Analytical,79,Software Engineer
+Science,Leadership,79,Data Scientist
+Business,Analytical,66,Teacher
+Arts,Creative,97,Graphic Designer
+Humanities,Creative,96,Business Analyst
+Science,Communication,72,Data Scientist
+Humanities,Research,64,Graphic Designer
+Science,Research,86,Data Scientist
+Business,Creative,70,Teacher
+Science,Creative,63,Software Engineer
+Science,Leadership,51,Software Engineer
+Science,Analytical,60,Data Scientist
+Arts,Analytical,100,Graphic Designer
+Business,Leadership,88,Business Analyst
+Technology,Analytical,87,Software Engineer
+Arts,Research,83,Teacher
+Arts,Research,87,Teacher
+Arts,Research,99,Graphic Designer
+Humanities,Creative,83,Business Analyst
+Technology,Creative,67,Software Engineer
+Arts,Analytical,79,Teacher
+Humanities,Research,64,Graphic Designer
+Arts,Research,76,Graphic Designer
+Arts,Communication,100,Graphic Designer
+Arts,Creative,83,Graphic Designer
+Technology,Communication,87,Software Engineer
+Science,Leadership,82,Data Scientist
+Science,Creative,73,Software Engineer
+Technology,Leadership,64,Software Engineer
+Technology,Creative,79,Business Analyst
+Humanities,Analytical,91,Teacher
+Arts,Creative,100,Graphic Designer
+Technology,Research,66,Data Scientist
+Humanities,Research,54,Teacher
+Technology,Research,78,Data Scientist
+Science,Creative,53,Data Scientist
+Arts,Research,59,Graphic Designer
+Business,Leadership,66,Business Analyst
+Science,Leadership,59,Software Engineer
+Business,Research,66,Teacher
+Technology,Leadership,69,Software Engineer
+Arts,Communication,73,Teacher
+Humanities,Creative,54,Business Analyst
+Science,Research,83,Data Scientist
+Humanities,Research,55,Teacher
+Humanities,Analytical,51,Graphic Designer
+Technology,Communication,62,Business Analyst
+Science,Communication,92,Software Engineer
+Science,Communication,92,Software Engineer
+Business,Analytical,97,Teacher
+Arts,Leadership,60,Teacher
+Technology,Leadership,100,Software Engineer
+Arts,Creative,96,Graphic Designer
+Arts,Communication,72,Teacher
+Arts,Leadership,65,Teacher
+Technology,Communication,80,Business Analyst
+Science,Communication,60,Software Engineer
+Science,Communication,65,Data Scientist
+Arts,Creative,57,Graphic Designer
+Science,Analytical,53,Data Scientist
+Technology,Research,89,Data Scientist
+Arts,Creative,53,Graphic Designer
+Technology,Leadership,74,Software Engineer
+Business,Communication,52,Teacher
+Business,Communication,81,Teacher
+Technology,Leadership,52,Data Scientist
+Humanities,Leadership,76,Graphic Designer
+Humanities,Analytical,78,Business Analyst
+Business,Leadership,81,Business Analyst
+Business,Communication,99,Teacher
+Humanities,Leadership,100,Business Analyst
+Humanities,Research,68,Graphic Designer
+Arts,Leadership,70,Graphic Designer
+Business,Communication,54,Teacher
+Arts,Analytical,67,Graphic Designer
+Technology,Analytical,77,Software Engineer
+Science,Communication,91,Software Engineer
+Technology,Creative,71,Software Engineer
+Arts,Research,70,Graphic Designer
+Arts,Leadership,55,Graphic Designer
+Arts,Leadership,50,Graphic Designer
+Science,Analytical,54,Software Engineer
+Business,Research,90,Teacher
+Technology,Communication,61,Data Scientist
+Technology,Leadership,75,Data Scientist
+Technology,Communication,95,Business Analyst
+Business,Communication,83,Teacher
+Science,Analytical,98,Data Scientist
+Business,Analytical,63,Business Analyst
+Technology,Leadership,75,Data Scientist
+Arts,Creative,94,Graphic Designer
+Technology,Leadership,76,Business Analyst
+Arts,Leadership,58,Graphic Designer
+Business,Research,75,Business Analyst
+Business,Research,96,Teacher
+Arts,Leadership,71,Teacher
+Business,Creative,96,Business Analyst
+Technology,Leadership,79,Software Engineer
+Technology,Communication,92,Software Engineer
+Arts,Research,97,Teacher
+Arts,Communication,66,Graphic Designer
+Arts,Leadership,75,Teacher
+Business,Leadership,85,Business Analyst
+Business,Analytical,50,Business Analyst
+Arts,Communication,57,Graphic Designer
+Science,Analytical,98,Software Engineer
+Science,Creative,84,Software Engineer
+Arts,Analytical,64,Teacher
+Technology,Analytical,96,Software Engineer
+Technology,Leadership,71,Data Scientist
+Business,Creative,63,Business Analyst
+Science,Communication,75,Data Scientist
+Technology,Leadership,77,Business Analyst
+Science,Leadership,72,Software Engineer
+Technology,Communication,63,Data Scientist
+Arts,Communication,73,Teacher
+Business,Research,51,Teacher
+Science,Communication,94,Software Engineer
+Arts,Communication,75,Graphic Designer
+Technology,Research,63,Data Scientist
+Arts,Communication,100,Graphic Designer
+Business,Communication,56,Teacher
+Business,Research,52,Teacher
+Technology,Analytical,96,Software Engineer
+Arts,Creative,72,Graphic Designer
+Science,Communication,95,Software Engineer
+Science,Leadership,92,Data Scientist
+Humanities,Creative,96,Business Analyst
+Science,Communication,94,Data Scientist
+Arts,Research,67,Teacher
+Business,Research,87,Business Analyst
+Science,Leadership,84,Data Scientist
+Arts,Analytical,100,Graphic Designer
+Science,Communication,64,Data Scientist
+Business,Research,74,Business Analyst
+Science,Research,86,Data Scientist
+Arts,Communication,77,Teacher
+Humanities,Communication,59,Teacher
+Business,Analytical,88,Business Analyst
+Humanities,Communication,66,Teacher
+Arts,Creative,88,Graphic Designer
+Technology,Analytical,71,Software Engineer
+Business,Research,75,Business Analyst
+Science,Creative,93,Data Scientist
+Technology,Leadership,74,Business Analyst
+Technology,Analytical,66,Software Engineer
+Science,Analytical,62,Data Scientist
+Technology,Research,69,Data Scientist
+Humanities,Communication,74,Teacher
+Science,Research,53,Data Scientist
+Science,Research,59,Data Scientist
+Humanities,Leadership,52,Teacher
